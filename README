@@ -1,0 +1,30 @@
+ZixFS - Zix File Storage
+
+Welcome to ZixFS!
+
+Components
+  Zix		- ZixFS main class. 
+  ZixLot	- ZixFS lot file class.
+
+Introduction
+  ZixFS is a simple file storage base on Zip file structure. Although it has been
+  developed as an alternative to GridFS, but it still not at par to be inline with
+  the GridFS nor to compete with it. The main objective is to provide powefull FS
+  under Windows 32bit environment with a capability handling Terabytes of data which
+  not offered by GridFS. The original ZipStorer class library was developed Jaime 
+  Olivares(see credits). Anybody are welcome to improve, re-structure and contribute
+  the development of the engine.
+
+Author
+  Azri Jamil - wajatimur[at]live[dot]com
+  http://standalonex.com
+
+Credits
+  - Jaime Olivares | http://jaimeolivares.com
+
+History
+  - August 2nd, 2011: Eearly release version.
+
+License
+  All ZixFS source files are made available under the terms of the
+  GNU General Public License (GPLv3).
