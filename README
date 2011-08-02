@@ -1,4 +1,4 @@
-ZixFS - Zix File Storage
+ZixFS - Zix Embedded File Storage
 
 Welcome to ZixFS!
 
@@ -7,7 +7,7 @@ Components
   ZixLot	- ZixFS lot file class.
 
 Introduction
-  ZixFS is a simple file storage base on Zip file structure. Although it has been
+  ZixFS is a simple embedded file storage base on Zip file structure. Although it has been
   developed as an alternative to GridFS, but it still not at par to be inline with
   the GridFS nor to compete with it. The main objective is to provide powefull FS
   under Windows 32bit environment with a capability handling Terabytes of data which
